@@ -14,7 +14,7 @@
 * **Mobilize Já:** Plataforma completa para aluguel e doação de equipamentos de acessibilidade, focada em impacto social e experiência do usuário.<br/>
   <a href="https://gwsofiacarolline.github.io/Mobiliza-Ja/"> <img src="https://img.shields.io/badge/github-repo-blue?logo=github"/><a/>
 * **Pé na Estrada:** Plataforma completa de vitrine e gestão de viagens, focada em uma experiência visual intuitiva para o cliente e controle total para o administrador.<br/>
-<a href="https://dev-kleber-santos.github.io/pe-na-estrada/"><img src="https://img.shields.io/badge/github-repo-blue?logo=github"/><a/>
+<a href="https://dev-kleber-santos.github.io/pe-na-estrada/"><img target="_blank" src="https://img.shields.io/badge/github-repo-blue?logo=github"/><a/>
 
  **Ferramentas**
 
