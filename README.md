@@ -12,7 +12,7 @@ Busco evoluir constantemente aplicando os conceitos na prática. Tenho participa
 
 **Projetos de Destaque**
 
-* **Panoptes (Em Desenvolvimento):** Uma API de assistente corporativo com Inteligência Artificial (RAG). Construída com Python, FastAPI, LangChain e banco de dados vetorial no Supabase para automatizar o acesso à documentação de projetos.
+* **Panoptes (Em Desenvolvimento):** Uma API de assistente corporativo com Inteligência Artificial (RAG). Construída com Python, FastAPI, LangChain e banco de dados vetorial para automatizar o acesso à documentação de projetos.
 * **Mobilize Já:** Plataforma completa para aluguel e doação de equipamentos de acessibilidade, focada em impacto social e experiência do usuário.
 * **Pé na Estrada:** Plataforma de vitrine e gestão de viagens, focada em uma experiência visual intuitiva para o cliente e controle total para o administrador.
 
