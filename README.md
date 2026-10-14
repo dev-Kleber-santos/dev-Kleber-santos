@@ -1,39 +1,79 @@
-# Olá, eu sou o Kleber Santos!
+<div align="center">
 
-### Desenvolvedor Full Stack | Python, IA & JavaScript
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=210&color=0:0D1117,35:161B42,70:6633CC,100:00D9FF&text=Kleber%20Santos&fontColor=FFFFFF&fontSize=52&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20Python%20%26%20AI&descAlignY=58&descSize=19&animation=fadeIn" alt="Banner Kleber Santos" />
 
-**Sobre Mim**
+<a href="https://github.com/dev-Kleber-santos">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2800&pause=1000&color=7C5CFF&center=true&vCenter=true&width=650&lines=Desenvolvedor+Full+Stack;Python+%7C+JavaScript+%7C+React;APIs+%7C+Dados+%7C+Intelig%C3%AAncia+Artificial;Transformando+ideias+em+solu%C3%A7%C3%B5es" alt="Apresentação animada" />
+</a>
 
-Participo do programa Start Tech da TOTVS e estou na reta final da minha formação superior na UNIP, com foco no desenvolvimento de interfaces modernas e APIs estruturadas. 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/klebersantosdev)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/dev-Kleber-santos)
 
-Atualmente, minha dedicação está em construir soluções escaláveis usando Python, Análise de Dados e Inteligência Artificial. Gosto muito de unir o ecossistema JavaScript (como React e Node.js) com back-ends inteligentes usando FastAPI e LangChain para criar ferramentas completas e que resolvam problemas de negócios. 
+</div>
 
-Busco evoluir constantemente aplicando os conceitos na prática. Tenho participado de imersões de código, como as da Alura, e procuro estar presente em eventos da comunidade de tecnologia, como o The Developer's Conference (TDC) em São Paulo, para acompanhar as novidades do mercado.
+## Sobre mim
 
-**Projetos de Destaque**
+Sou **Kleber Santos**, desenvolvedor **Full Stack** com foco em aplicações web modernas, APIs estruturadas e soluções que integram **Python, dados e Inteligência Artificial**.
 
-* **Panoptes (Em Desenvolvimento):** Uma API de assistente corporativo com Inteligência Artificial (RAG). Construída com Python, FastAPI, LangChain e banco de dados vetorial para automatizar o acesso à documentação de projetos.
-* **Mobilize Já:** Plataforma completa para aluguel e doação de equipamentos de acessibilidade, focada em impacto social e experiência do usuário.
-* **Pé na Estrada:** Plataforma de vitrine e gestão de viagens, focada em uma experiência visual intuitiva para o cliente e controle total para o administrador.
+Participo do programa **Start Tech da TOTVS** e estou na reta final da minha graduação na **UNIP**. Tenho interesse em conectar interfaces intuitivas a back-ends robustos e explorar tecnologias como **FastAPI, LangChain e RAG** para resolver desafios reais.
 
-**Ferramentas**
+Busco evoluir continuamente por meio da prática, de imersões de desenvolvimento — incluindo iniciativas da **Alura** — e do contato com a comunidade de tecnologia em eventos como o **The Developer's Conference (TDC)**.
 
-<!-- Frontend -->
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
+## Tecnologias e ferramentas
 
-<!-- Backend, IA & Banco de Dados -->
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/postgresql-4169e1?style=for-the-badge&logo=postgresql&logoColor=white)
+<div align="center">
 
-**Onde me encontrar**
+**Frontend**
 
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/klebersantosdev)
+<img src="https://skillicons.dev/icons?i=html,css,js,react,bootstrap&theme=dark" alt="HTML, CSS, JavaScript, React e Bootstrap" />
 
-*Obrigado por visitar meu perfil! Vamos nos conectar e criar juntos!*
+**Backend e APIs**
+
+<img src="https://skillicons.dev/icons?i=python,fastapi,nodejs&theme=dark" alt="Python, FastAPI e Node.js" />
+
+**Banco de dados e serviços**
+
+<img src="https://skillicons.dev/icons?i=postgres,supabase&theme=dark" alt="PostgreSQL e Supabase" />
+
+**Inteligência Artificial e dados**
+
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+![RAG](https://img.shields.io/badge/RAG-6633CC?style=for-the-badge)
+![Análise de Dados](https://img.shields.io/badge/An%C3%A1lise_de_Dados-1864AB?style=for-the-badge)
+
+**Ferramentas de desenvolvimento**
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode&theme=dark" alt="Git, GitHub e VS Code" />
+
+</div>
+
+## Atividade no GitHub
+
+<div align="center">
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=dev-Kleber-santos&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=9D7BFF&icon_color=00D9FF&text_color=C9D1D9" alt="Estatísticas do GitHub" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dev-Kleber-santos&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=9D7BFF&text_color=C9D1D9" alt="Linguagens mais utilizadas" />
+
+</div>
+
+## Contribuições
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/dev-Kleber-santos/dev-Kleber-santos/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/dev-Kleber-santos/dev-Kleber-santos/output/github-contribution-grid-snake.svg" />
+    <img alt="Animação das contribuições" src="https://raw.githubusercontent.com/dev-Kleber-santos/dev-Kleber-santos/output/github-contribution-grid-snake.svg" />
+  </picture>
+</div>
+
+## Vamos nos conectar?
+
+<div align="center">
+
+Estou sempre aberto a trocar experiências, aprender e conversar sobre desenvolvimento de software, dados e Inteligência Artificial.
+
+[![LinkedIn](https://img.shields.io/badge/Conectar_no_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/klebersantosdev)
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=110&section=footer&color=0:0D1117,40:6633CC,100:00D9FF" alt="Rodapé decorativo" />
+
+</div>
