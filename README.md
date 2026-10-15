@@ -1,6 +1,6 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=210&color=0:0D1117,35:161B42,70:6633CC,100:00D9FF&text=Kleber%20Santos&fontColor=FFFFFF&fontSize=52&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20Python%20%26%20AI&descAlignY=58&descSize=19&animation=fadeIn" alt="Banner Kleber Santos" />
+<img width="100%" src="./assets/banner.svg" alt="Banner Kleber Santos - Full Stack Developer" />
 
 <a href="https://github.com/dev-Kleber-santos">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2800&pause=1000&color=7C5CFF&center=true&vCenter=true&width=650&lines=Desenvolvedor+Full+Stack;Python+%7C+JavaScript+%7C+React;APIs+%7C+Dados+%7C+Intelig%C3%AAncia+Artificial;Transformando+ideias+em+solu%C3%A7%C3%B5es" alt="Apresentação animada" />
@@ -74,6 +74,6 @@ Estou sempre aberto a trocar experiências, aprender e conversar sobre desenvolv
 
 [![LinkedIn](https://img.shields.io/badge/Conectar_no_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/klebersantosdev)
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=110&section=footer&color=0:0D1117,40:6633CC,100:00D9FF" alt="Rodapé decorativo" />
+<sub>Desenvolvimento Full Stack | Python | Inteligência Artificial</sub>
 
 </div>
